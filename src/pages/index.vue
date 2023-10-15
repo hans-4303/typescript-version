@@ -1,3 +1,4 @@
+<!-- 다른 경로 아닐 시 호출되는 index.vue -->
 <script setup lang="ts">
 import AnalyticsAward from '@/views/dashboards/analytics/AnalyticsAward.vue'
 import AnalyticsBarCharts from '@/views/dashboards/analytics/AnalyticsBarCharts.vue'
